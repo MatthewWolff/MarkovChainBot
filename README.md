@@ -1,9 +1,9 @@
 # MarkovChainBot
-Uses markov chains and a corpus of text to respond to conversation
+Uses markov chains and a corpus of text to respond to conversation  
 
 
-$javac Chatbot.java ChatbotDriver.java
-$java ChatbotDriver
+$javac Chatbot.java ChatbotDriver.java  
+$java ChatbotDriver  
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 You: What’s your opinion on self-driving cars?  
 Chatbot: self-driving cars right now , tesla still received plenty of OOV and  
